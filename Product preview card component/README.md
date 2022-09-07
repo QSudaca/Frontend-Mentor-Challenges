@@ -1,16 +1,8 @@
 ## Table of contents
--   [Screenshot](#screenshot)
 -   [Links](#links)
 -   [My process](#my-process)
 -   [Built with](#built-with)
 -   [Author](#author)
-
-#
-
-### Screenshot
-
-![](./screenshots/product-preview-screenshot-desktop.jpg)
-![](./screenshots/product-preview-screenshot-mobile.png)
 
 ### Links
 
