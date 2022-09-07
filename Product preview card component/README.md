@@ -1,15 +1,12 @@
 ## Table of contents
 -   [Links](#links)
--   [My process](#my-process)
 -   [Built with](#built-with)
 -   [Author](#author)
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
-
-## My process
+- Solution URL: https://github.com/QSudaca/Frontend-Mentor-Challenges/tree/main/Product%20preview%20card%20component
+- Live Site URL: https://qsudaca.github.io/Frontend-Mentor-Challenges/Product%20preview%20card%20component/index.html
 
 ### Built with
 
